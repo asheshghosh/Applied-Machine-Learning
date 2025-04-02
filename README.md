@@ -9,6 +9,6 @@ Two different approaches to the classification of images (diseases) will be show
 2. Convolutional Neural Networks.
 ---
 ## Part 1: ML In HealthCare Notebook
-
-In the ML in Healthcare notebook we will only cover part 1.
+---
+#### In the ML in Healthcare notebook we will only cover part 1 looking at different classical methods
 ---
