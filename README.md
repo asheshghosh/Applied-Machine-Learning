@@ -8,7 +8,7 @@ Two different approaches to the classification of images (diseases) will be show
 1. Different classical methods and their comparison 
 2. Convolutional Neural Networks.
 ---
-## Part 1: ML In HealthCare Notebook
+## Part 1:Classical Machine Learning Methods for Diagnosis
 ---
 ##### 
 
@@ -42,5 +42,8 @@ Two different approaches to the classification of images (diseases) will be show
 <img src="https://raw.githubusercontent.com/asheshghosh/Applied-Machine-Learning/main/Accuracy%20of%20Classifiers.png" alt="Sample Output" width="1000">
 
 
+---
 
+---
+## Part 2:Convolutional Neural Network (CNN) for Diagnosis
 ---
