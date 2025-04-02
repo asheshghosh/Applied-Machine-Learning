@@ -38,7 +38,7 @@ Two different approaches to the classification of images (diseases) will be show
   </tbody>
 </table>
 
-<p><strong>Sample Output:</strong></p>
+<p><strong>Output as a plot:</strong></p>
 <img src="https://raw.githubusercontent.com/asheshghosh/Applied-Machine-Learning/main/Accuracy%20of%20Classifiers.png" alt="Sample Output" width="600">
 
 
