@@ -12,21 +12,31 @@ Two different approaches to the classification of images (diseases) will be show
 ---
 ##### 
 
-In the ML in Healthcare notebook we will only cover part 1 looking at different classical methods.
-The notebook should produce the following results:
+<h3>Results from Part 1: Classical Machine Learning Methods</h3>
+<p>In the <strong>ML in Healthcare</strong> notebook, we will only cover Part 1, focusing on different classical methods. The notebook should produce the following results:</p>
 
-                     Test  Train
-Classifier accuracy             
-Logistic Regression  0.90   0.85
-Nearest Neighbors    0.86   0.70
-Linear SVM           0.79   0.71
-RBF SVM              1.00   0.48
-Gaussian Process     0.78   0.65
-Decision Tree        0.90   0.61
-Random Forest        0.90   0.61
-Neural Net           0.93   0.83
-AdaBoost             0.85   0.58
-Naive Bayes          0.67   0.59
-QDA                  0.78   0.80
+<table>
+  <thead>
+    <tr>
+      <th>Classifier</th>
+      <th>Test Accuracy</th>
+      <th>Train Accuracy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Logistic Regression</td><td>0.90</td><td>0.85</td></tr>
+    <tr><td>Nearest Neighbors</td><td>0.86</td><td>0.70</td></tr>
+    <tr><td>Linear SVM</td><td>0.79</td><td>0.71</td></tr>
+    <tr><td>RBF SVM</td><td>1.00</td><td>0.48</td></tr>
+    <tr><td>Gaussian Process</td><td>0.78</td><td>0.65</td></tr>
+    <tr><td>Decision Tree</td><td>0.90</td><td>0.61</td></tr>
+    <tr><td>Random Forest</td><td>0.90</td><td>0.61</td></tr>
+    <tr><td>Neural Net</td><td>0.93</td><td>0.83</td></tr>
+    <tr><td>AdaBoost</td><td>0.85</td><td>0.58</td></tr>
+    <tr><td>Naive Bayes</td><td>0.67</td><td>0.59</td></tr>
+    <tr><td>QDA</td><td>0.78</td><td>0.80</td></tr>
+  </tbody>
+</table>
+
 
 ---
