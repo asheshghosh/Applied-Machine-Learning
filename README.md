@@ -47,3 +47,5 @@ Two different approaches to the classification of images (diseases) will be show
 ---
 ## Part 2:Convolutional Neural Network (CNN) for Diagnosis
 ---
+<p><strong>Output as a plot:</strong></p>
+<img src="https://raw.githubusercontent.com/asheshghosh/Applied-Machine-Learning/main/Accuracy%20CNN.png" alt="Sample Output" width="1000">
